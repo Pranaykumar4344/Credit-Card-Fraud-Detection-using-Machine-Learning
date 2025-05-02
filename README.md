@@ -140,6 +140,6 @@ MIT License
 
 ## 🔗 Connect With Me
 
-📧 Email: yourname@email.com  
-🌐 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-🐙 GitHub: [Your GitHub](https://github.com/your-username)
+📧 Email: jpranaykumar1205@gmail.com 
+🌐 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/janapareddi-pranay-kumar-5897a828a/)  
+🐙 GitHub: [My GitHub](https://github.com/Pranaykumar4344)
